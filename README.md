@@ -1,0 +1,1 @@
+After cloning change the video src to your favourite video you upload in /assets
